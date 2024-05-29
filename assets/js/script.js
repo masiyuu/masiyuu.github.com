@@ -227,3 +227,8 @@ document.addEventListener('DOMContentLoaded', function() {
   // Set volume to 0.7 (will be limited to maxVolume)
   limitVolume(0);
 });
+
+function copyButton() {
+    navigator.clipboard.writeText("masi5")
+    alert("Successfully copied");
+}
