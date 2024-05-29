@@ -237,3 +237,7 @@ body {
 .user-description:hover p {
   background-color: rgba(255, 255, 255, 0.2); /* Semi-transparent background on hover */
 }
+
+.discord-clickable {
+  cursor: pointer;
+}
