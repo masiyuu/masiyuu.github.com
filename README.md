@@ -1,2 +1,2 @@
 # My Bio
-cool bio website
+cool bio
